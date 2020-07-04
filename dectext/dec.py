@@ -12,7 +12,7 @@ def main():
 @main.command()
 @click.option('--input', '-i', default="SAURAV GUJJAR", help="give text to decorate.")
 def decorate(input):
-    """Decorate tour Text"""
+    """Decorate your Text"""
     f = Figlet(font='slant')
     color = ''
     if randrange(1,3) == 1:
