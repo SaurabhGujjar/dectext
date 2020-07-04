@@ -1,1 +1,1 @@
-from decotext.dec import main, decorate
+from dectext.dec import main, decorate

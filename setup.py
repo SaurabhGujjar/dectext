@@ -9,7 +9,7 @@ setup(
     author = 'Saurabh Gujjar',
     author_email = 'saurabhpanwar127@gmail.com',
     url = 'https://github.com/SaurabhGujjar/dectext.git', 
-    download_url = 'https://github.com/SaurabhGujjar/decotext/archive/v_0.01.tar.gz',
+    download_url = 'https://github.com/SaurabhGujjar/dectext/archive/v_0.01.tar.gz',
     keywords = ['TEXT', 'DECORATION', 'CONSOLE'],
 
     py_modules=['dectext'],
